@@ -43,8 +43,6 @@ I believe strong data scientists are built by:
 - Analyzing errors, not just metrics
 - Practicing consistently on real data
 
-This repository reflects that approach.
+This complete repository reflects that approach.
 
-Author  
-Anish Tirumala Venkata  
-M.S. in Computer Science, University of Florida
+
